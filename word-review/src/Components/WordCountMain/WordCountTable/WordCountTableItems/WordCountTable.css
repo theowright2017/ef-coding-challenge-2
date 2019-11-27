@@ -1,0 +1,15 @@
+.small {
+  font-size: 0.5rem;
+}
+.small-mid {
+  font-size: 1.5rem;
+}
+.mid {
+  font-size: 3rem;
+}
+.mid-large {
+  font-size: 4.5rem;
+}
+.large {
+  font-size: 6rem;
+}
