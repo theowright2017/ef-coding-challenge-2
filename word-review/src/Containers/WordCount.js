@@ -74,7 +74,7 @@ class WordCount extends Component {
 
     return (
       <div>
-      <WordCountTable array={arrayOfKeyValues}/>
+        <WordCountTable array={arrayOfKeyValues}/>
       </div>
     )
   }

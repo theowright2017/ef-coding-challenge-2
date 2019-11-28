@@ -6,7 +6,7 @@ const layout = (props) => {
   return(
 
     <div>
-    
+
 
       <main>
         {props.children}

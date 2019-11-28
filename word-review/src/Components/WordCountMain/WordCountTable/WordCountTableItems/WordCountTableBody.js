@@ -9,11 +9,11 @@ const wordCountTableBody = (props) => {
       <tr key={index}>
         <td  key={index}
              className={(
-               `${entry[1] === 1 ? "small" : ""}
-                ${entry[1] === 2 ? "small-mid" : ""}
-                ${entry[1] === 3 ? "mid" : ""}
-                ${entry[1] === 4 ? "mid-large" : ""}
-                ${entry[1]   > 4 ? "large" : ""}
+               `${entry[1] === 1 ? "tbSmall" : ""}
+                ${entry[1] === 2 ? "tbSmallMid" : ""}
+                ${entry[1] === 3 ? "tbMid" : ""}
+                ${entry[1] === 4 ? "tbMidLarge" : ""}
+                ${entry[1]   > 4 ? "tbLarge" : ""}
                 `
                 )} >
           {entry[0]}

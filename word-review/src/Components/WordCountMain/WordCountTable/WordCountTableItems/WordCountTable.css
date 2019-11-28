@@ -1,15 +1,15 @@
-.small {
+.tbSmall {
   font-size: 0.5rem;
 }
-.small-mid {
+.tbSmallMid {
   font-size: 1.5rem;
 }
-.mid {
+.tbMid {
   font-size: 3rem;
 }
-.mid-large {
+.tbMidLarge {
   font-size: 4.5rem;
 }
-.large {
+.tbLarge {
   font-size: 6rem;
 }
