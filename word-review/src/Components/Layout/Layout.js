@@ -6,7 +6,7 @@ const layout = (props) => {
   return(
 
     <div>
-      <p>toolbar, nav items </p>
+
 
       <main>
         {props.children}
